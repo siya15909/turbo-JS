@@ -8,6 +8,7 @@ JS from beginner to pro
   <LI>Comments</LI>
   <LI>Operators</LI>
   <LI>Conditional Statements</LI>
+  <LI>Loops</LI>
 </h4></OL>
 
 Note => Install Node to run the file or try alternative methods
