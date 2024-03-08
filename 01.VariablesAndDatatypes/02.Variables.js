@@ -5,3 +5,4 @@ const ac = 90;
 //ac=9; Updation and redeclaration not possible
 var ad = 78;
 var ad = 72; //Updation and redeclaration are possible
+/* Scope of var is outside the block while that of let is inside the block*/
