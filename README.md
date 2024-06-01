@@ -11,6 +11,11 @@ JS from beginner to pro
   <LI>Loops</LI>
   <LI>Strings</LI>
   <LI>Arrays</LI>
+  <LI>Functions</LI>
+  <LI>Methods</LI>
+  <LI>Document Object Model</LI>
+  <LI>Events</LI>
+  <LI>Classes & Objects</LI>
 </h4></OL>
 
 Note => Install Node to run the file or try alternative methods
