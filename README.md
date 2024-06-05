@@ -16,6 +16,8 @@ JS from beginner to pro
   <LI>Document Object Model</LI>
   <LI>Events</LI>
   <LI>Classes & Objects</LI>
+  <LI>Inheritance</LI>
+  <LI>Async & Await</LI>
 </h4></OL>
 
 Note => Install Node to run the file or try alternative methods
