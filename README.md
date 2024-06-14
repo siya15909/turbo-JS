@@ -1,23 +1,25 @@
-# turbo-JS
+# Turbo-JS
 
-JS from beginner to pro
+*JS from beginner to pro*
 
-<h3>Contents</h3>
-<OL><h4>
-  <LI>Variables And DataTypes</LI>
-  <LI>Comments</LI>
-  <LI>Operators</LI>
-  <LI>Conditional Statements</LI>
-  <LI>Loops</LI>
-  <LI>Strings</LI>
-  <LI>Arrays</LI>
-  <LI>Functions</LI>
-  <LI>Methods</LI>
-  <LI>Document Object Model</LI>
-  <LI>Events</LI>
-  <LI>Classes & Objects</LI>
-  <LI>Inheritance</LI>
-  <LI>Async & Await</LI>
-</h4></OL>
+## Contents
 
-Note => Install Node to run the file or try alternative methods
+1. **Variables And DataTypes**
+2. **Comments**
+3. **Operators**
+4. **Conditional Statements**
+5. **Loops**
+6. **Strings**
+7. **Arrays**
+8. **Functions**
+9. **Methods**
+10. **Document Object Model**
+11. **Events**
+12. **Classes & Objects**
+13. **Inheritance**
+14. **Promises**
+15. **Async & Await**
+16. **Fetch API**
+
+## Note
+> Install Node to run the file or try alternative methods.
