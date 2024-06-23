@@ -21,5 +21,7 @@
 15. **Async & Await**
 16. **Fetch API**
 
+Important LeetCode qns are also updated.
+
 ## Note
 > Install Node to run the file or try alternative methods.
